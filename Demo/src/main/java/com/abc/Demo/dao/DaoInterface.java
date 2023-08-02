@@ -18,13 +18,7 @@ public interface DaoInterface {
 		public  Student getStudentById(int sid);
 		public List<Student> viewAllstudents();
 
-	    //public boolean deleteStudent(int sid);
-
-	    //public boolean updateStudent(Student std);
-
-	    //public Student getStudentById(int sid);
-
-	    //public List<Student> viewAllStudents();
+	   
 
 	}
 	
